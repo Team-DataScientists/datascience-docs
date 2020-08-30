@@ -31,7 +31,7 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     //{ doc: 'Profiles1/ProfilesIntro', label: 'Profiles' },
-    { doc: 'DataScientistProfiles/ProfileInfo', label: 'who we are ? ' },
+    { doc: 'DataScientistProfiles/ProfileInfo', label: 'Who Are We?' },
     { doc: 'DataScience/datascience', label: 'DataScience' },
     { doc: 'alogorithms/alogorithmsIntro', label: 'alogorithms' },
     { doc: 'doc4', label: 'Technical' },
