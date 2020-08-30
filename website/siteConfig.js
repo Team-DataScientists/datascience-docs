@@ -21,24 +21,21 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Datascientists-Documentation', // Title for your website.
+  title: 'TeamDS-Documentation', // Title for your website.
   tagline: 'A website for collaboratively working data scientists',
   url: 'https://Team-DataScientists.github.io', // Your website URL
   baseUrl: '/datascience-docs/', // Change base url forlocalusewhen blog is not woirking  Base URL for your project */ change this  
-  // baseUrl: '/temp/'  enablewhen your testing 
   projectName: 'datascience-docs',
   organizationName: 'Team-DataScientists',
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    // { doc: 'doc1/doc1', label: 'Profiles' },
-    { doc: 'Profiles1/ProfilesIntro', label: 'Profiles' },
-    { doc: 'DataScientistProfiles/ProfileInfo', label: 'Data Scientist Profiles' },
-    { doc: 'doc4', label: 'Technical' },
-    // { doc: 'dataScientistProfiles', label: 'Data Scientist Profiles' },
-    { doc: 'alogorithms/alogorithmsIntro', label: 'alogorithms' },
-    { doc: 'tools/tools-overview', label: 'Tools' },
+    //{ doc: 'Profiles1/ProfilesIntro', label: 'Profiles' },
+    { doc: 'DataScientistProfiles/ProfileInfo', label: 'who we are ? ' },
     { doc: 'DataScience/datascience', label: 'DataScience' },
+    { doc: 'alogorithms/alogorithmsIntro', label: 'alogorithms' },
+    { doc: 'doc4', label: 'Technical' },
+    { doc: 'tools/tools-overview', label: 'Tools' },
     // { page: 'contribute', label: 'contribute' },
     { page: 'help', label: 'Help' },
     { blog: true, label: 'Blog' },
