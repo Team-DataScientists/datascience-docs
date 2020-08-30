@@ -21,13 +21,13 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Team Data Scientists', // Title for your website.
+  title: 'Datascientists-Documentation', // Title for your website.
   tagline: 'A website for collaboratively working data scientists',
-  url: 'https://team-datascience.github.io', // Your website URL
-  baseUrl: '/blog/', // Change base url forlocalusewhen blog is not woirking  Base URL for your project */ change this  
+  url: 'https://Team-DataScientists.github.io', // Your website URL
+  baseUrl: '/datascience-docs/', // Change base url forlocalusewhen blog is not woirking  Base URL for your project */ change this  
   // baseUrl: '/temp/'  enablewhen your testing 
-  projectName: 'blog',
-  organizationName: 'team-datascience',
+  projectName: 'datascience-docs',
+  organizationName: 'Team-DataScientists',
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
