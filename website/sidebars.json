@@ -1,0 +1,94 @@
+{
+  "Technical": {
+    "Data Scientist": [
+      "DataScientistProfiles/ProfileInfo-3",
+      "DataScientistProfiles/ProfileInfo-4",
+      {
+        "type": "subcategory",
+        "label": "Profile Overview",
+        "ids": [
+          "DataScientistProfiles/ProfileInfo",
+          "DataScientistProfiles/ProfileInfo-2"
+        ]
+      }
+    ]
+  },
+  "Profiles": {
+    "ProfilesY": [
+      "Profiles1/ProfilesIntro",
+      "Profiles1/Haji_mastan_Vali",
+      "Profiles1/ProfileInfo-4",
+      {
+        "type": "subcategory",
+        "label": "Profile Overview",
+        "ids": [
+          "Profiles1/ProfileInfo",
+          "Profiles1/ProfileInfo-2"
+        ]
+      }
+    ]
+  },
+  "algorithms": {
+    "algorithms": [
+      "alogorithms/alogorithmsIntro",
+      "alogorithms/bubblesort",
+      {
+        "type": "subcategory",
+        "label": "sorting alogorithms",
+        "ids": [
+          "alogorithms/quciksort",
+          "alogorithms/mergesort"
+        ]
+      }
+    ]
+  },
+  "Tools": {
+    "tools": [
+      "tools/tools-overview",
+      "tools/git",
+      "tools/docusaurus-tips"
+    ]
+  },
+  "Data Science": {
+    "Data Science": [
+      "DataScience/datascience",
+      {
+        "type": "subcategory",
+        "label": "MECHAINE LEARING",
+        "ids": [
+          "DataScience/ML/MachineLearningIntroduction",
+          "DataScience/ML/pca",
+          "DataScience/ML/t-sne",
+          "DataScience/ML/k-nn",
+          "DataScience/ML/k-dtree",
+          "DataScience/ML/binarytree"   
+        ]
+      },
+      {
+        "type": "subcategory",
+        "label": "python",
+        "ids": [
+          "DataScience/python/numpy",
+          "DataScience/python/pandas"
+        ]
+      },
+      {
+        "type": "subcategory",
+        "label": "sql",
+        "ids": [
+          "DataScience/sql/joins",
+          "DataScience/sql/Queries"
+        ]
+      },
+      {
+        "type": "subcategory",
+        "label": "target",
+        "ids": [
+          "DataScience/target/target",
+          "DataScience/target/haji",
+          "DataScience/target/jasmin"
+        ]
+      }
+    ]
+  }
+}
