@@ -19,7 +19,7 @@ Module | Date | interwied|
  Module-7 | September 25 - October 20|     |
  Module-8 | October 20 - November20  |     |
  Module-9 | November20 - December 25 |     |
-
-
-
-
+ 
+Applied AI - By the end of December
+Algorithms - By the end of December
+DBMS - Oracle - MangoDB - By the end of December
