@@ -23,3 +23,4 @@ Module | Date | interwied|
 Applied AI - By the end of December
 Algorithms - By the end of December
 DBMS - Oracle - MangoDB - By the end of December
+including Documentation 
