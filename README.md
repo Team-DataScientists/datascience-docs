@@ -1,12 +1,8 @@
 # blog
 
-[blog](https://team-datascience.github.io/blog/)
+[blog](https://team-datascientists.github.io/datascience-docs/)
 
-    * https://team-datascience.github.io/blog/
-
-    * https://rabbani8.github.io/docusaurus-test/
-
-    * http://localhost:3000/blog/
+  https://team-datascientists.github.io/datascience-docs/
 
     1. website/build website/node_modules folder dont commit in master alredy add (disabled)  in .gitigonre file 
 
